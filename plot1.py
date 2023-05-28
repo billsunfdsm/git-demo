@@ -7,3 +7,5 @@ plt.plot(x, np.sin(x))
 plt.plot(x, np.cos(x))
 
 #plt.show() # event loop
+
+## OK 
