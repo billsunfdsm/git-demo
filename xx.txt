@@ -1,3 +1,4 @@
 new ver 5.0   ## modify 11/06 
 ## Hello world !!!!
+edit in server
 local add
